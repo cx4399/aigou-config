@@ -9,7 +9,7 @@ eureka:
     prefer-ip-address: true
 zuul:
   routes:
-    plat.serviceId: aigou-plat
+    plat.serviceId: aigou-plat-dev
     plat.path: /plat/**
   ignored-services: "*"
   prefix: "/services"
