@@ -8,4 +8,4 @@ server:
   port: 8001
 spring:
   application:
-    name: aigou-plat-dev
+    name: aigou-plat
